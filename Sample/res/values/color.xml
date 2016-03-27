@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="ad_size_header_text">#f8f8f8</color>
+    <color name="ad_size_header_background">#808080</color>
+    <color name="ad_size_item_text">#808080</color>
+    <color name="ad_size_item_background">#f8f8f8</color>
+    <color name="manage_ids_background">#e8e8e8</color>
+    <color name="manage_ids_section1_background">#f8f8f8</color>
+    <color name="manage_ids_section2_background">#f8f8f8</color>
+    
+</resources>
